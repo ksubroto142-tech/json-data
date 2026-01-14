@@ -1,1 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "color": "red",
+    "price": 850
+  },
+  {
+    "id": 2,
+    "name": "Mobile Phone",
+    "color": "blue",
+    "price": 500
+  },
+  {
+    "id": 3,
+    "name": "Headphone",
+    "color": "green",
+    "price": 120
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "color": "purple",
+    "price": 200
+  },
+  {
+    "id": 5,
+    "name": "Keyboard",
+    "color": "orange",
+    "price": 60
+  }
+]
 
